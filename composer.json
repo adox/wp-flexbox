@@ -1,0 +1,16 @@
+{
+    "name": "adox/wp-flexbox",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "description": "Wordpress plugin for building flexible sites with ACF integration",
+    "homepage": "https://github.com/adox/wp-flexbox",
+    "package": {
+        "source": {
+            "url": "https://github.com/adox/wp-flexbox",
+            "type": "git"
+        },
+        "require": {
+            "composer/installers": "v1.0.6"
+        }
+    }
+}
